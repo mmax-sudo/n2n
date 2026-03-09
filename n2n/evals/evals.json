@@ -1,0 +1,6 @@
+{
+  "skill_name": "n2n",
+  "version": "1.0.0",
+  "instructions": "Add project-specific evals below. Each eval needs a patch file in patches/ that introduces a bug for n2n to find and fix. See patches/README.md for the format.",
+  "evals": []
+}
