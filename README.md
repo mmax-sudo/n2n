@@ -72,8 +72,8 @@ Based on real-world usage across 15+ sessions. Costs vary by model and task comp
 ### Option 1: Copy from GitHub
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/n2n-skill.git
-cp -r n2n-skill/n2n ~/.claude/skills/n2n
+git clone https://github.com/mmax-sudo/n2n.git
+cp -r n2n/n2n ~/.claude/skills/n2n
 ```
 
 ### Option 2: Manual
